@@ -1,0 +1,1 @@
+const arrayFruits = ['manzana', 'pera', 'platano']
